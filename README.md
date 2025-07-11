@@ -1,4 +1,4 @@
-<img width="1896" height="875" alt="image" src="https://github.com/user-attachments/assets/857e76ab-6d58-401e-8209-0713627c2fde" /># PERSONAL PORTFOLIO WEBPAGE
+# PERSONAL PORTFOLIO WEBPAGE
 
 COMPANY: CODTECH IT SOLUTIONS
 
