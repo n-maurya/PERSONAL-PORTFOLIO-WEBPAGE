@@ -1,4 +1,4 @@
-# PERSONAL PORTFOLIO WEBPAGE
+<img width="1896" height="875" alt="image" src="https://github.com/user-attachments/assets/857e76ab-6d58-401e-8209-0713627c2fde" /># PERSONAL PORTFOLIO WEBPAGE
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -34,4 +34,5 @@ This portfolio is fully responsive and works on desktops, tablets, and mobile de
 - Contact form section (can be connected to a backend service)
 - Built using only HTML, CSS, and JavaScript – no frameworks required
 - #OUTPUT
-- <img width="1885" height="782" alt="Image" src="https://github.com/user-attachments/assets/1e01969e-8ed1-4def-8799-7d3430236c48" />
+- <img width="1896" height="875" alt="image" src="https://github.com/user-attachments/assets/d925b7b6-a05c-4e26-95d1-a5c83b0acb69" />
+
